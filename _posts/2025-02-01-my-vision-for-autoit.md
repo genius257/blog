@@ -6,12 +6,7 @@ categories: AutoIt
 
 AutoIt is an interesting language. It's a interpreted language, with a small executable size and has a pretty good compatibility with older versions of windows.
 
-But it is a language that seems stuck in it's old ways. It does very little to improve it's core experience, and as a result it is falling into obscurity.
-
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3975_RC01/embed_loader.js"></script>
-<script type="text/javascript">
-trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/070m83","geo":"","time":"2004-01-01 2025-02-01"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=%2Fm%2F070m83&hl=en","guestPath":"https://trends.google.com:443/trends/embed/"});
-</script>
+But it is a language that seems stuck in it's old ways. It does very little to improve it's core experience, and as a result it is [falling into obscurity](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F070m83&hl=en).
 
 I have a vision for the future of AutoIt, where it becomes more relevant again. Below are the things I am working towards and hope to realize one day.
 
